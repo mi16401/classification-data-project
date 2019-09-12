@@ -1,0 +1,9 @@
+Algoritam logisticke regresije:
+
+Matrica konfuzije:
+[[1641    4    0    0]
+ [  12  355    1    0]
+ [   0    2  372   16]
+ [  10    0    8 1604]]
+
+Preciznost modela dobijenog logistickom regresijom: 0.986832298136646

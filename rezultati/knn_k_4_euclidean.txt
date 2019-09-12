@@ -1,0 +1,12 @@
+kNN nad balansiranim trening skupom:
+
+k = 4; metrix = 'minkowski'; algorithm = brute
+
+Matrica konfuzije
+[[1324  258   24   39]
+ [  53  302   13    0]
+ [  12   51  313   14]
+ [ 427   49  263  883]]
+
+Preciznost modela: 0.7011180124223603
+

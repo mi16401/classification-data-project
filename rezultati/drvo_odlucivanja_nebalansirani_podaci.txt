@@ -1,0 +1,10 @@
+Drvo odlucivanja nad nebalansiranim trening skupom:
+
+Matrica konfuzije:
+
+[[1480   49   28   88]
+ [  47  279   20   22]
+ [  31   26  253   80]
+ [ 150   19   82 1371]]
+
+Preciznost na nebalansiranom skupu:  0.8404968944099379

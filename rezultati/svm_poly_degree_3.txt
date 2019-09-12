@@ -1,0 +1,9 @@
+SVM; kernel = 'poly'; degree = 3
+
+Matrica konfuzije:
+[[1611   25    1    8]
+ [  37  330    1    0]
+ [  15    2  343   30]
+ [  15    0   15 1592]]
+
+Preciznost modela SVM sa polinomijalnim kernelom: 0.9629813664596273

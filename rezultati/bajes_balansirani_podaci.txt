@@ -1,0 +1,10 @@
+Naivni Bajes nad balansiranim trening skupom:
+
+Matrica konfuzije:
+[[1022  536   57   30]
+ [  21  299   42    6]
+ [   0    0  389    1]
+ [   2    1  351 1268]]
+
+Preciznost modela dobijenog nad balansiranim trening skupom:
+0.7398757763975156

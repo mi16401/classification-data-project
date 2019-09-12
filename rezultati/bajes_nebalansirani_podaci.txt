@@ -1,0 +1,10 @@
+Naivni Bajes nad nebalansiranim trening skupom:
+
+Matrica konfuzije:
+[[1553   11    1   80]
+ [   0  346    1   21]
+ [   0    0  373   17]
+ [   3    2    3 1614]]
+
+Preciznost modela treniranog na nebalansiranom skupu podataka:
+0.9654658385093168

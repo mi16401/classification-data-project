@@ -1,0 +1,11 @@
+Drvo odlucivanja nad balaniranim trening skupom:
+Matrica konfuzije:
+
+[[1449   56   37  103]
+ [  38  306   20    4]
+ [  31   29  293   37]
+ [ 124   12   92 1394]]
+
+Preciznost na balansiranom skupu: 0.8551552795031055
+
+
